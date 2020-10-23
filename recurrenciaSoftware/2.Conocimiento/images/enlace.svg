@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="54px" preserveAspectRatio="none" style="width:94px;height:54px;" version="1.1" viewBox="0 0 94 54" width="94px" zoomAndPan="magnify"><defs><filter height="300%" id="f1n2v5njjw13yx" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FEFECE" filter="url(#f1n2v5njjw13yx)" height="35.0938" style="stroke: #A80036; stroke-width: 1.5;" width="21" x="6" y="8"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="7" x="13" y="22.457">a</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="26" y1="27.0938" y2="27.0938"/><rect fill="#FEFECE" filter="url(#f1n2v5njjw13yx)" height="35.0938" style="stroke: #A80036; stroke-width: 1.5;" width="21" x="62" y="8"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="7" x="69" y="22.457">b</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="63" x2="82" y1="27.0938" y2="27.0938"/><!--link a to b--><path d="M27.4375,25.5 C37.2307,25.5 47.024,25.5 56.8172,25.5 " fill="none" id="a-b" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="61.9385,25.5,52.9385,21.5,56.9385,25.5,52.9385,29.5,61.9385,25.5" style="stroke: #A80036; stroke-width: 1.0;"/><!--
+@startuml
+object a
+object b
+
+a -right-> b
+
+@enduml
+
+PlantUML version 1.2019.05(Sat Apr 20 18:45:36 CEST 2019)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 1.8.0_222-b10
+Operating System: Windows 10
+OS Version: 10.0
+Default Encoding: windows-1252
+Language: es
+Country: ES
+--></g></svg>
